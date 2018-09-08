@@ -1,4 +1,4 @@
-# React
+# React 配置文件
 检查是否安装node.js
 node-v  
 
